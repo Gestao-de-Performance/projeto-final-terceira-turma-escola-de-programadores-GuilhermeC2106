@@ -1,0 +1,6 @@
+Mudanças
+
+Adicionar uma cor de fundo que possua um pouco mais de contraste com as cores das letras.
+Faltou adicionar uma seção de habilidades e outra com os projetos.
+
+Na versão mobile faltou conseguir fechar o menu depois de aberto.
